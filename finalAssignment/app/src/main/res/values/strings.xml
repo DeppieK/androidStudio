@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Smart Alert</string>
+    <string name="password">Password</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="signIn">Sign-in</string>
+    <string name="signUp">Sign-up</string>
+    <string name="notAUser">Not a user? Sign-up</string>
+    <string name="chooseAnAction">Choose an action</string>
+    <string name="createEvent">Create event</string>
+    <string name="viewEventList">View event list</string>
+    <string name="viewStatistics">View accepted event Statistics</string>
+    <string name="eventTitle">Event title</string>
+    <string name="description">Description</string>
+    <string name="fire">Fire</string>
+    <string name="flood">Flood</string>
+    <string name="earthquake">Earthquake</string>
+    <string name="tornado">Tornado</string>
+    <string name="hurricane">Hurricane</string>
+    <string name="lightning">Lightning</string>
+    <string name="winterStorm">Winter Storm</string>
+    <string name="uploadData">Upload Image</string>
+    <string name="submit">Submit</string>
+    <string name="acceptedEvents">Accepted Events</string>
+    <string name="events">Events</string>
+    <string name="search">Search…</string>
+    <string name="allEvents">All events</string>
+    <string name="all">All</string>
+    <string name="sortByPopularity">Sort by popularity</string>
+    <string name="sortByLocation">Sort by Location</string>
+
+</resources>

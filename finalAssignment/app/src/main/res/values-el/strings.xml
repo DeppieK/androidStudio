@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Alert</string>
+    <string name="password">Κωδικός</string>
+    <string name="firstName">Όνομα</string>
+    <string name="lastName">Επώνυμο</string>
+    <string name="signIn">Σύνδεση</string>
+    <string name="signUp">Εγγραφή</string>
+    <string name="notAUser">Δεν είστε χρήστης; Κάντε εγγραφή</string>
+    <string name="chooseAnAction">Επιλέξτε μία ενέργεια</string>
+    <string name="createEvent">Δημιουργία νέου περιστατικού</string>
+    <string name="viewEventList">Δείτε την λίστα με τα περιστατικά</string>
+    <string name="viewStatistics">Προβολή στατιστικών εγκεκριμένων περιστατικών</string>
+    <string name="eventTitle">Τίτλος περιστατικού</string>
+    <string name="description">Περιγραφή</string>
+    <string name="fire">Φωτιά</string>
+    <string name="flood">Πλυμμήρα</string>
+    <string name="earthquake">Σεισμός</string>
+    <string name="tornado">Σίφουνας</string>
+    <string name="hurricane">Τυφώνας</string>
+    <string name="lightning">Αστραπή</string>
+    <string name="winterStorm">Χιονοθύελλα</string>
+    <string name="uploadData">Ανεβάστε εικόνα</string>
+    <string name="submit">Υποβολή</string>
+    <string name="acceptedEvents">Εγκεκριμένα Περιστατικά</string>
+    <string name="events">Περιστατικά</string>
+    <string name="search">Αναζήτηση…</string>
+    <string name="allEvents">Όλα τα περιστατικά</string>
+    <string name="all">Όλα</string>
+    <string name="sortByPopularity">Ταξινόμιση με βάση την δημοτικότητα</string>
+    <string name="sortByLocation">Ταξινόμιση με βάση την τοποθεσία</string>
+</resources>

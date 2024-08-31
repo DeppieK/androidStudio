@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/allEvents"
+        android:id="@+id/idReset"
+        />
+    <item
+        android:title="@string/sortByPopularity"
+        android:id="@+id/idCount"
+        />
+    <item
+        android:title="@string/fire"
+        android:id="@+id/idFire"
+        >
+        <menu>
+            <item
+                android:id="@+id/idFireAll"
+                android:title="@string/all" />
+            <item
+                android:id="@+id/idFireLocation"
+                android:title="@string/sortByLocation" />
+
+        </menu>
+    </item>
+    <item
+        android:title="@string/flood"
+        android:id="@+id/idFlood"
+        >
+        <menu>
+            <item
+                android:id="@+id/idFloodAll"
+                android:title="@string/all" />
+            <item
+                android:id="@+id/idFloodLocation"
+                android:title="@string/sortByLocation" />
+
+        </menu>
+    </item>
+    <item
+        android:title="@string/earthquake"
+        android:id="@+id/idEarthquake"
+        >
+        <menu>
+            <item
+                android:id="@+id/idEarthquakeAll"
+                android:title="@string/all" />
+            <item
+                android:id="@+id/idEarthquakeLocation"
+                android:title="@string/sortByLocation" />
+
+        </menu>
+    </item>
+    <item
+        android:title="@string/tornado"
+        android:id="@+id/idTornado"
+        >
+        <menu>
+            <item
+                android:id="@+id/idTornadoAll"
+                android:title="@string/all" />
+            <item
+                android:id="@+id/idTornadoLocation"
+                android:title="@string/sortByLocation" />
+
+        </menu>
+    </item>
+    <item
+        android:title="@string/hurricane"
+        android:id="@+id/idHurricane"
+        >
+        <menu>
+            <item
+                android:id="@+id/idHurricaneAll"
+                android:title="@string/all" />
+            <item
+                android:id="@+id/idHurricaneLocation"
+                android:title="@string/sortByLocation" />
+
+        </menu>
+    </item>
+    <item
+        android:title="@string/lightning"
+        android:id="@+id/idLightning"
+        >
+        <menu>
+            <item
+                android:id="@+id/idLightningAll"
+                android:title="@string/all" />
+            <item
+                android:id="@+id/idLightningLocation"
+                android:title="@string/sortByLocation" />
+
+        </menu>
+    </item>
+    <item
+        android:title="@string/winterStorm"
+        android:id="@+id/idWinterStorm"
+        >
+        <menu>
+            <item
+                android:id="@+id/idWinterStormAll"
+                android:title="@string/all" />
+            <item
+                android:id="@+id/idWinterStormLocation"
+                android:title="@string/sortByLocation" />
+
+        </menu>
+    </item>
+
+</menu>
